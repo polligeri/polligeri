@@ -19,5 +19,3 @@ public class SecondsInADays {
         System.out.print( ":" +hátralévőMásodperc);
     }
 }
-    }
-}
