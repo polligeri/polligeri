@@ -1,9 +1,12 @@
 package Minden.polligeri;
 
 public class Main {
-
     public static void main(String[] args) {
-        // Kiírja a konzolra, hogy "Hello, World!"
-        System.out.println("Hello, Geri!");
+        // Írasd ki a "Lipem lopom a szőlőt" című mondóka sorait helyes sorrendben
+        System.out.println("Lipem, lopom a szőlőt,");
+        System.out.println("elaludt az öreg csősz.");
+        System.out.println("Furkósbot a kezébe,");
+        System.out.println("vaskalap a fejébe.");
+
     }
 }
