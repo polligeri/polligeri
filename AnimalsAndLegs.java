@@ -1,4 +1,5 @@
 package Minden.polligeri;
+//ezt
 import java.util.Scanner;
 public class AnimalsAndLegs {
     public static void main(String[] args) {
