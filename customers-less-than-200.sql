@@ -1,0 +1,1 @@
+select total from orders left join customers on customers.id=orders.id where total < 200;

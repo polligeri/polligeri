@@ -1,0 +1,1 @@
+SELECT names FROM customers WHERE city='Brno' OR city='Budapest';

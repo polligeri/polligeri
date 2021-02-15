@@ -1,0 +1,1 @@
+SELECT COUNT(names) FROM customers WHERE city='Budapest';
